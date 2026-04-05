@@ -18,7 +18,6 @@ This project moves beyond standard LLM wrappers by implementing a deterministic 
 3. **The Analyst Agent (Node 2):** Upon human approval, the state graph resumes. This agent consumes the verified raw data and synthesizes it into a professional, structured SWOT Analysis (Strengths, Weaknesses, Opportunities, Threats).
 4. **File Generation:** The final markdown report is provided for immediate download.
 
-*(Insert a screenshot of the Human Approval screen or terminal output here!)*
 ![HITL Screenshot](Approved.png)
 
 ## ⚙️ Tech Stack
