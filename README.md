@@ -7,8 +7,7 @@
 
 An enterprise-grade, multi-agent AI system built to automate market research and strategic analysis. This application uses an event-driven state graph to coordinate autonomous agents, dynamically search the live web, and feature a Human-in-the-Loop (HITL) breakpoint for data validation.
 
-*(Insert a screenshot of your live Streamlit app here!)*
-`![App Screenshot](link_to_your_image_here.png)`
+`![App Screenshot](Approval.png)`
 
 ## 🏗️ Architecture & Workflow
 
@@ -20,7 +19,7 @@ This project moves beyond standard LLM wrappers by implementing a deterministic 
 4. **File Generation:** The final markdown report is provided for immediate download.
 
 *(Insert a screenshot of the Human Approval screen or terminal output here!)*
-`![HITL Screenshot](link_to_your_image_here.png)`
+`![HITL Screenshot](Approved.png)`
 
 ## ⚙️ Tech Stack
 
