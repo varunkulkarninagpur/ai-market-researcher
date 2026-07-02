@@ -1,4 +1,4 @@
-# 🤖 AI Market Research Team (Multi-Agent Workflow)
+#AI Market Research Team (Multi-Agent Workflow)
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B.svg)](https://share.streamlit.io/)
